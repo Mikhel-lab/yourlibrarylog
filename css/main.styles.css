@@ -1,0 +1,18 @@
+.b-text {
+  color: black;
+}
+.w-text {
+  color: antiquewhite;
+}
+
+.b-backbl {
+  background: rgba(11, 18, 22, 0.933);
+}
+
+#tx-red {
+  color: red;
+}
+
+.danger-bd {
+  border-bottom: 2px solid red;
+}
